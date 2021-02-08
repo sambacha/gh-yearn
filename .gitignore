@@ -1,0 +1,8 @@
+*.tar.gz
+*.tgz
+*.zip
+.DS_Store
+node_modules
+*.log
+key
+*.key
